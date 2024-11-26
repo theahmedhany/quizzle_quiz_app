@@ -38,7 +38,7 @@ A new Flutter Application.
 https://github.com/user-attachments/assets/a10d1a18-b80e-44a9-9a41-7f806bf65cfc
 
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="*************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_flutter-quizzle-dart-activity-7267095901309972480-1mzK?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 -----
 
